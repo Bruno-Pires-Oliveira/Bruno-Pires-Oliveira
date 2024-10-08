@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bruno-Pires-Oliveira
 - 👀 I’m interested in study
-- 🌱 I’m currently learning javascript, php and python
+- 🌱 I’m currently learning javascript, html, css and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me brunopiresoliveira2e@gmail.com
 - 😄 Pronouns: He/him
